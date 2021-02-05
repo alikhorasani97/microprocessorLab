@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:52456A38
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:16 "C:\cvavr\inc\lcd.h"
+NODE:I LEVEL:0 LINE:17 "C:\cvavr\inc\stdlib.h"
+NODE:V LEVEL:0 LINE:19 "timer1_counter_G000 -> RAM:????"
+NODE:F LEVEL:0 LINE:21 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:27 "timer1_capt_isr(void)"
+NODE:F LEVEL:0 LINE:49 "main(void)"

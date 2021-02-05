@@ -1,0 +1,10 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"micro-3.c" LINE:49
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:3 FILE:"C:\cvavr\lib\lcd.lib" LINE:210
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:4 FILE:"C:\cvavr\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:6 FILE:"C:\cvavr\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:7 FILE:"C:\cvavr\lib\lcd.lib" LINE:77
+timer1_capt_isr DSTACK_USAGE:28 DSTACK_LEVEL:35 FILE:"micro-3.c" LINE:27
+lcd_puts DSTACK_USAGE:3 DSTACK_LEVEL:38 FILE:"C:\cvavr\lib\lcd.lib" LINE:210
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:39 FILE:"C:\cvavr\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:41 FILE:"C:\cvavr\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:42 FILE:"C:\cvavr\lib\lcd.lib" LINE:77
