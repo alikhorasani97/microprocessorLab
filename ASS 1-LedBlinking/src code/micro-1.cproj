@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>6.1</ProjectVersion>
     <ToolchainName>com.HPInfoTech.CodeVisionAVR.C</ToolchainName>
-    <ProjectGuid>{21B3F4D9-423D-497C-A76A-A46C3F34E8A0}</ProjectGuid>
+    <ProjectGuid>{1950CAA1-423D-497C-A76A-A46C3F34E8A0}</ProjectGuid>
     <avrdevice>ATmega16</avrdevice>
     <avrdeviceseries>none</avrdeviceseries>
     <OutputType>Executable</OutputType>
@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.cof</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>LedBlink</AssemblyName>
-    <Name>LedBlink</Name>
-    <RootNamespace>LedBlink</RootNamespace>
+    <AssemblyName>micro-1</AssemblyName>
+    <Name>micro-1</Name>
+    <RootNamespace>micro-1</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
@@ -24,19 +24,19 @@
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <ToolchainSettings>
       <CV>
-        <CVProjectPath>"LedBlink.prj"</CVProjectPath>
+        <CVProjectPath>"micro-1.prj"</CVProjectPath>
       </CV>
     </ToolchainSettings>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <ToolchainSettings>
       <CV>
-        <CVProjectPath>"LedBlink.prj"</CVProjectPath>
+        <CVProjectPath>"micro-1.prj"</CVProjectPath>
       </CV>
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LedBlink.c">
+    <Compile Include="micro-1.c">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>

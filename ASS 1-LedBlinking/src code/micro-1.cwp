@@ -28,7 +28,7 @@ InterruptEnabled=0
 [Ports]
 DDR0=0
 PORT0=0
-DDR1=255
+DDR1=0
 PORT1=0
 DDR2=0
 PORT2=0
@@ -428,7 +428,7 @@ DS1820Many=0
 [2Wire]
 2WireEnabled=0
 2WireMode=0
-SCLBitRate=23
+SCLBitRate=62
 SlaveAddress=0
 MatchAnySlaveAddress=0
 RxBufferSize=1
@@ -497,7 +497,7 @@ DS1302ChargeResistor=0
 [ProjectInformation]
 ProjectName=
 ProjectVersion=
-ProjectDate=12/14/2020
+ProjectDate=2/5/2021
 ProjectAuthor=
 ProjectCompany=
 CommentLines=0

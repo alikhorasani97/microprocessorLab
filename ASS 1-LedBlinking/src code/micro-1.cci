@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:524566B5
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\mega16.h"
+NODE:V LEVEL:0 LINE:13 "time_count_G000 -> RAM:????"
+NODE:V LEVEL:0 LINE:14 "active -> R4,R5"
+NODE:V LEVEL:0 LINE:15 "dir -> R6,R7"
+NODE:F LEVEL:0 LINE:17 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:40 "main(void)"
